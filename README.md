@@ -1,1 +1,1 @@
-# JenkinsQA_JS
+# My project practice testing Jenkins on Cypress
